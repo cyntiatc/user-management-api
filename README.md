@@ -1,4 +1,4 @@
-# User Management API — Projet KFOKAM48
+# User Management API
 
 API REST sécurisée de gestion des utilisateurs construite avec **Spring Boot 3**, **Spring Security 6 (JWT + BCrypt)** et **PostgreSQL**.
 
